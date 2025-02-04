@@ -67,7 +67,7 @@ function Masterdata() {
     setOpen(true);
   };
 
-  // Save new entry
+  // Save new
   const handleSave = async () => {
     try {
       if (formData.id) {
