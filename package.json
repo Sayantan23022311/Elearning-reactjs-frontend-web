@@ -1,5 +1,5 @@
 {
-  "name": "E Learning",
+  "name": "ELearning",
   "version": "2.2.0",
   "private": true,
   "author": "Creative Tim",
@@ -16,7 +16,7 @@
     "@emotion/cache": "11.10.8",
     "@emotion/react": "11.10.8",
     "@emotion/styled": "11.10.8",
-    "@mui/icons-material": "5.11.16",
+    "@mui/icons-material": "^6.4.2",
     "@mui/material": "5.12.3",
     "axios": "^1.7.9",
     "chart.js": "4.3.0",
