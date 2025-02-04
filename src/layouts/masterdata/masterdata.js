@@ -123,6 +123,7 @@ function Masterdata() {
       </MDTypography>
     ),
   }));
+  
   const handleMasterChange = (e) => {
     const selectedValue = e.target.value;
     setSelectedMaster(selectedValue);

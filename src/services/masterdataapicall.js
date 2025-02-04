@@ -12,7 +12,7 @@ export const courseAdd = async (courseseAdd) => {
     throw error;
   }
 };
-
+//get
 export const fetchCourses = async (payload) => {
   try {
     const response = await apicall.get(API_ENDPOINTS.get_category, {
