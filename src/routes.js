@@ -63,7 +63,7 @@ const routes = [
   },
   {
     type: "collapse",
-    name: "MasterDataSetup",
+    name: "MasterDataSetup22",
     key: "masterdata",
     icon: <Icon fontSize="small">table_view</Icon>,
     route: "/masterdata",
